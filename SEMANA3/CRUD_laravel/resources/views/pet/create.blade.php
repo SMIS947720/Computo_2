@@ -1,4 +1,4 @@
-<h1>New pets</h1>
+<h1>New Pets</h1>
 
 <form action="{{ url('/pet') }}" method="post">
     @csrf
